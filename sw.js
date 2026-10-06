@@ -1,5 +1,5 @@
-// Dinner Saver offline cache (ea14f3b8). Network first, so updates show straight away; the cache covers no signal at the shops.
-const CACHE = "dinner-saver-ea14f3b8";
+// Dinner Saver offline cache (10fc9c2c). Network first, so updates show straight away; the cache covers no signal at the shops.
+const CACHE = "dinner-saver-10fc9c2c";
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(["./", "./index.html", "./manifest.webmanifest", "./icon-192.png"]))); self.skipWaiting(); });
 self.addEventListener("activate", e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener("fetch", e => {
