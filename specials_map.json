@@ -1,0 +1,1341 @@
+{
+"updated": "2026-10-06",
+"items": {
+"Woolworths Beef, Pork or Chicken Sausage or Chipolata Varieties 550g": {
+"key": "sausages",
+"ratio": 0.55,
+"same": false
+},
+"Bread Roll Varieties Pk 6": {
+"key": "rolls",
+"ratio": 1,
+"same": true
+},
+"Woolworths Tomato or Barbecue Sauce 500ml": {
+"key": "bbq",
+"ratio": 1,
+"same": true
+},
+"Tasmanian Heritage Brie or Camembert 200g": {
+"key": null,
+"ratio": 1
+},
+"Coca-Cola Classic, Diet or Zero Sugar Soft Drink Varieties 10 x 375ml": {
+"key": "coke30",
+"ratio": 0.333,
+"same": true
+},
+"Just Caught Snacking Varieties 600g-1 kg": {
+"key": null,
+"ratio": 1
+},
+"Red Rock Deli Potato Chips 165g": {
+"key": "chipsbag",
+"ratio": 1,
+"same": false
+},
+"Arnott's Tim Tam Chocolate Biscuits 165-200g": {
+"key": "biscuits",
+"ratio": 1,
+"same": false
+},
+"Red Bull Energy Drink 4 x 250ml": {
+"key": "energy",
+"ratio": 1,
+"same": true
+},
+"Woolworths Spring Water Bottles 24 x 600ml": {
+"key": "water24",
+"ratio": 1,
+"same": true
+},
+"Australian Beef Porterhouse Steak & Butter 400g": {
+"key": "steak",
+"ratio": 0.571,
+"same": false
+},
+"Australian Brown Onions 2 kg Pack": {
+"key": "onion",
+"ratio": 1,
+"same": true
+},
+"Woolworths Asian Style Salad Kit 350g Pack": {
+"key": null,
+"ratio": 1
+},
+"Australian Fresh RSPCA Approved Chicken Wings Pk 12": {
+"key": "wings",
+"ratio": 1,
+"same": true
+},
+"Nando's Peri-Peri Sauce 250g": {
+"key": null,
+"ratio": 1
+},
+"Schweppes Lemonade, Soda Water or Mixer Varieties 1.1 Litre": {
+"key": null,
+"ratio": 1
+},
+"Australian Beef Scotch Fillet Steak Bulk Pack": {
+"key": "steak",
+"ratio": 1.43,
+"same": false
+},
+"Meredith Dairy 80-100g, Mon Ami 125g or Tuckers Fruit Paste 120g": {
+"key": null,
+"ratio": 1
+},
+"Mersey Valley Cheddar Varieties 235g": {
+"key": null,
+"ratio": 1
+},
+"Olina's Bakehouse Artisan Crackers 90-100g": {
+"key": null,
+"ratio": 1
+},
+"McCain Pizza Slices 600g": {
+"key": null,
+"ratio": 1
+},
+"San Marino Sliced Varieties 80-100g": {
+"key": null,
+"ratio": 1
+},
+"Patties Party Pies or Sausage Rolls 1.25 kg Pk 30": {
+"key": null,
+"ratio": 1
+},
+"Four’N Twenty Traditional Pies 700g Pk 4": {
+"key": "pies",
+"ratio": 1,
+"same": true
+},
+"Smith's Thinly Cut Potato Chips 175g": {
+"key": "chipsbag",
+"ratio": 1,
+"same": true
+},
+"Coca-Cola Classic, Diet or Zero Sugar Soft Drink Varieties 30 x 375ml": {
+"key": "coke30",
+"ratio": 1,
+"same": true
+},
+"Smith’s, Doritos or Red Rock Deli Party Size Potato Chips 290-380g": {
+"key": "chipsbag",
+"ratio": 1.9,
+"same": false
+},
+"Paddle Pop Twister Mini Ice Sticks 300ml Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Schweppes Infused Mineral Water 10 x 375ml": {
+"key": null,
+"ratio": 1
+},
+"Ingham's Chicken Varieties 1.5 kg": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Sour Cream 300ml": {
+"key": "sourcream",
+"ratio": 1,
+"same": true
+},
+"McCain Superfries 900g": {
+"key": "chips",
+"ratio": 0.9,
+"same": false
+},
+"Mighty Soft Hot Dog Rolls or Mighty Soft Burger Buns Pk 6": {
+"key": "buns",
+"ratio": 1,
+"same": false
+},
+"Woolworths Australian Classic, Smash, Stacker or Slider Beef Burger Varieties 400-500g": {
+"key": "smash",
+"ratio": 1,
+"same": true
+},
+"Fantastic Noodle Cups 70g": {
+"key": "instantnoodles",
+"ratio": 0.2,
+"same": false
+},
+"Mayfair Frankfurts 500g": {
+"key": "franks",
+"ratio": 1,
+"same": true
+},
+"Woolworths Southern Fried Wing Nibbles 600g with RSPCA Approved Chicken": {
+"key": null,
+"ratio": 1
+},
+"Praise Whole Egg Mayonnaise or Garlic Aioli 470-500g": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Prepacked Salads 800g": {
+"key": null,
+"ratio": 1
+},
+"Ritz Crackers 217-227g": {
+"key": "ritz",
+"ratio": 1,
+"same": true
+},
+"Colgate Plax Mouthwash Alcohol Free 1 Litre": {
+"key": null,
+"ratio": 1
+},
+"Mount Franklin Lightly Sparkling Water 10 x 375ml": {
+"key": null,
+"ratio": 1
+},
+"Lantern Alley Singapore, Hokkien or Udon Noodles 400g": {
+"key": "noodles",
+"ratio": 0.89,
+"same": false
+},
+"Woolworths Australian Carrots, Peas & Corn 1 kg": {
+"key": null,
+"ratio": 1
+},
+"Little One’s Ultra Dry Nappies Pk 36-56": {
+"key": null,
+"ratio": 1
+},
+"Australian Pink Lady Apples": {
+"key": "fruit:apples",
+"ratio": 1.6,
+"same": false
+},
+"Australian Navel Oranges": {
+"key": "fruit:oranges",
+"ratio": 1,
+"same": true
+},
+"Australian Tangold Seedless Mandarins": {
+"key": "fruit:mandarins",
+"ratio": 1,
+"same": true
+},
+"Australian Kids Mini Apples, Mandarins or Pears Pk 5": {
+"key": "fruit:apples",
+"ratio": 1,
+"same": true
+},
+"Australian Washed Red Potatoes 2 kg Pack": {
+"key": "potato",
+"ratio": 1,
+"same": true
+},
+"Australian Tinyberry Tomatoes 125g Pack": {
+"key": null,
+"ratio": 1
+},
+"Australian Snackables Carrots 250g Pack": {
+"key": null,
+"ratio": 1
+},
+"Australian Qukes® Baby Cucumbers 250g Pack": {
+"key": null,
+"ratio": 1
+},
+"macro Free Range Australian Fresh RSPCA Approved Chicken Breast Fillets Skinless Bulk Tray": {
+"key": "breast",
+"ratio": 1,
+"same": false
+},
+"Australian Lamb Forequarter Chops": {
+"key": "lambchop",
+"ratio": 1,
+"same": true
+},
+"Woolworths Pub Style Chicken Breast Schnitzels with Australian RSPCA Approved Chicken 440g Pk 2": {
+"key": "schnitzels",
+"ratio": 0.293,
+"same": false
+},
+"Woolworths Slow Cooked Pork Riblets in a Smokey BBQ Marinade 900g": {
+"key": null,
+"ratio": 1
+},
+"Australian Pork Scotch Fillet 600g": {
+"key": "porksteak",
+"ratio": 1,
+"same": true
+},
+"Ocean Chef Salmon Fillets Skin On 1 kg": {
+"key": null,
+"ratio": 1
+},
+"Australian Thawed Extra Large Cooked Tiger Prawns": {
+"key": null,
+"ratio": 1
+},
+"Fresh Tasmanian Salmon Fillets Skin Off": {
+"key": null,
+"ratio": 1
+},
+"Australian Fresh Whole Plain RSPCA Approved Chicken": {
+"key": "wholechk",
+"ratio": 0.625,
+"same": true
+},
+"Australian Pork Belly Roast": {
+"key": null,
+"ratio": 1
+},
+"Helga’s Wrap Varieties 445-508g Pk 7-8": {
+"key": "tortillas",
+"ratio": 1,
+"same": false
+},
+"Primo Short Cut Bacon 750g": {
+"key": "bacon",
+"ratio": 3.75,
+"same": false
+},
+"La Famiglia Garlic Slices 270g": {
+"key": "garlicbread",
+"ratio": 1,
+"same": false
+},
+"Barossa Fine Foods Delicatessen Varieties 80-120g": {
+"key": null,
+"ratio": 1
+},
+"NEW Barossa Fine Foods No Added Nitrite Ham – Sliced or Shaved": {
+"key": "ham",
+"ratio": 3.125,
+"same": false
+},
+"Mini Pastry Varieties Pk 8": {
+"key": null,
+"ratio": 1
+},
+"Mini Scroll Varieties Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Strawberry, Chocolate or Caramel Donuts Pk 4 or BFF Donuts Pk 2": {
+"key": "donuts",
+"ratio": 0.667,
+"same": false
+},
+"Woolworths All Butter Croissants Pk 3-4": {
+"key": null,
+"ratio": 1
+},
+"Chris’ Dips 200g": {
+"key": "dip",
+"ratio": 1,
+"same": true
+},
+"Castello Cheese Varieties 150-200g": {
+"key": null,
+"ratio": 1
+},
+"Pauls Plus+ Protein Dessert Pot 160g": {
+"key": null,
+"ratio": 1
+},
+"Yumi’s Dips 200g": {
+"key": "dip",
+"ratio": 1,
+"same": false
+},
+"Original Juice Black Label Varieties 1.5 Litre": {
+"key": "juice2l",
+"ratio": 0.75,
+"same": false
+},
+"Oak Flavoured Milk 600ml": {
+"key": null,
+"ratio": 1
+},
+"Little Entertainers Cheese Varieties 80g": {
+"key": null,
+"ratio": 1
+},
+"Nudie Nothing But Tropical Brekkie 2 Litre": {
+"key": null,
+"ratio": 1
+},
+"Dairy Farmers Protein Smoothie 400ml": {
+"key": null,
+"ratio": 1
+},
+"Danone Ultimate Yoghurt 4 x 115g": {
+"key": null,
+"ratio": 1
+},
+"Connoisseur Ice Cream Tub 1 Litre": {
+"key": "icecream",
+"ratio": 0.833,
+"same": false
+},
+"Dare Iced Coffee 750ml": {
+"key": "icedcoffee",
+"ratio": 1,
+"same": true
+},
+"YoPRO Perform 20g Protein Pot 175g": {
+"key": null,
+"ratio": 1
+},
+"Gippsland Mix-Ins Yoghurt 140g": {
+"key": null,
+"ratio": 1
+},
+"Jalna Greek Style Yoghurt 1 kg": {
+"key": "yoghurt",
+"ratio": 1,
+"same": false
+},
+"Weis Bars 264-280ml Pk 4-6": {
+"key": null,
+"ratio": 1
+},
+"Streets Paddle Pop 544ml Pk 8": {
+"key": null,
+"ratio": 1
+},
+"Cadbury Ice Cream Sticks 320-360ml Pk 4": {
+"key": null,
+"ratio": 1
+},
+"Farmers Union Greek Style Yoghurt Varieties 500g": {
+"key": "yoghurt",
+"ratio": 0.5,
+"same": false
+},
+"Farmers Union Greek Yoghurt 4 x 160g": {
+"key": "yoghurtpot",
+"ratio": 1,
+"same": false
+},
+"Herbert Adams Gourmet Pies 400-420g Pk 2": {
+"key": "pies",
+"ratio": 0.59,
+"same": false
+},
+"Birds Eye Air Baked Fish 250-380g": {
+"key": null,
+"ratio": 1
+},
+"McCain Beer Batter Chips 750g": {
+"key": "chips",
+"ratio": 0.75,
+"same": false
+},
+"Dr. Oetker Ristorante Pizza 310-390g": {
+"key": null,
+"ratio": 1
+},
+"King of Kings Snack Varieties 210-300g": {
+"key": null,
+"ratio": 1
+},
+"FroPro Chicken Tenders or Burgers 300g": {
+"key": null,
+"ratio": 1
+},
+"Strength Meals Co Frozen Meals 350g": {
+"key": "readymeal",
+"ratio": 1,
+"same": false
+},
+"McCain AirFryer Chips or Hash Browns 525-750g": {
+"key": "chips",
+"ratio": 0.65,
+"same": false
+},
+"Dairy Farmers Thick & Creamy Yoghurt 140-150g": {
+"key": "yoghurtpot",
+"ratio": 0.25,
+"same": false
+},
+"Darrell Lea Chocolate Bites 120-204g": {
+"key": null,
+"ratio": 1
+},
+"Finish Ultimate Plus Material Care Dishwasher Tablets Pk 80": {
+"key": null,
+"ratio": 1
+},
+"Maggi Soup Sachets 26-37g": {
+"key": null,
+"ratio": 1
+},
+"Nestlé Reduced Fat Cream 230ml": {
+"key": null,
+"ratio": 1
+},
+"Old El Paso Premium Kits 295-505g": {
+"key": "tacokit",
+"ratio": 1,
+"same": false
+},
+"Moro Olive Oil or Extra Virgin Olive Oil 1 Litre": {
+"key": null,
+"ratio": 1
+},
+"Heinz Beans 420g": {
+"key": "bakedbeans",
+"ratio": 1,
+"same": false
+},
+"BC Protein Bars 40g": {
+"key": null,
+"ratio": 1
+},
+"Mutti Polpa Chopped Tomatoes 400g": {
+"key": null,
+"ratio": 1
+},
+"La Molisana Pastificio Pasta 500g": {
+"key": "fettuccine",
+"ratio": 1,
+"same": false
+},
+"Betty Crocker Baking Mixes 280-500g": {
+"key": null,
+"ratio": 1
+},
+"Zooper Dooper Ice Blocks 24 x 70ml": {
+"key": "iceblocks",
+"ratio": 1,
+"same": true
+},
+"NEW Attimo Instant Italian Pasta Cup 70g": {
+"key": null,
+"ratio": 1
+},
+"NEW Coco Earth Meals 250g": {
+"key": null,
+"ratio": 1
+},
+"NEW Heinz Rice Meals 350g": {
+"key": "readymeal",
+"ratio": 1,
+"same": false
+},
+"Sirena Ready Meals 190g": {
+"key": null,
+"ratio": 1
+},
+"Nando’s Peri-naise 265g": {
+"key": null,
+"ratio": 1
+},
+"Nando’s Peri-Peri Sauce 250g": {
+"key": null,
+"ratio": 1
+},
+"Nando’s Peri-Peri or Smokey BBQ Rub 25g": {
+"key": null,
+"ratio": 1
+},
+"Nando’s Quick Marinade 260-262g": {
+"key": null,
+"ratio": 1
+},
+"Nestlé Medium Chocolate Bars 35-50g or Allen's Mini Lolly Bags 60-64g": {
+"key": null,
+"ratio": 1
+},
+"The Natural Confectionery Co. 130-230g, Sour Patch Kids 190g or Pascall Sugar Bags 160-300g": {
+"key": "lollybag",
+"ratio": 1,
+"same": false
+},
+"Pringles Potato Chips 134g": {
+"key": "chipsbag",
+"ratio": 0.77,
+"same": false
+},
+"Popcorners 130g": {
+"key": null,
+"ratio": 1
+},
+"Arnott's TeeVee Snacks Chocolate Biscuits 175g": {
+"key": "biscuits",
+"ratio": 0.875,
+"same": false
+},
+"Mars Share Packs 132-192g": {
+"key": null,
+"ratio": 1
+},
+"Pepsi or Schweppes Soft Drink Varieties 6 x 250ml": {
+"key": null,
+"ratio": 1
+},
+"Bundaberg Ginger Beer or Sparkling Mixer Varieties 4 x 375ml": {
+"key": null,
+"ratio": 1
+},
+"Pepsi Max, Mountain Dew, Solo Zero Sugar or Sunkist Zero Sugar Soft Drink Varieties 24 x 375ml": {
+"key": "pepsi30",
+"ratio": 0.8,
+"same": true
+},
+"Kirks Soft Drink Varieties 1.25 Litre": {
+"key": null,
+"ratio": 1
+},
+"Fanta or Sprite Soft Drink Varieties 24 x 375ml": {
+"key": null,
+"ratio": 1
+},
+"Uncle Tobys Le Snak 132g Pk 6 or Protein Muesli Bars 175g Pk 5": {
+"key": null,
+"ratio": 1
+},
+"Carman’s Protein Bars 150-200g Pk 5": {
+"key": null,
+"ratio": 1
+},
+"Nature Valley Crunchy Granola Bars 252g Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Fibre One Bars or Squares 105-120g Pk 5": {
+"key": null,
+"ratio": 1
+},
+"Twinings Cold Infusions Pk 14": {
+"key": null,
+"ratio": 1
+},
+"Vege Chips 100g": {
+"key": null,
+"ratio": 1
+},
+"Bonne Maman Conserve 370g": {
+"key": null,
+"ratio": 1
+},
+"Koja Bites, Little Bickies or Popcorn Bars 110-150g": {
+"key": null,
+"ratio": 1
+},
+"Carman’s Oat Slice 175g Pk 5": {
+"key": null,
+"ratio": 1
+},
+"Mayver’s Pure Goodness Everything Spread 280g": {
+"key": null,
+"ratio": 1
+},
+"Grinders Coffee Beans 1 kg": {
+"key": null,
+"ratio": 1
+},
+"Suntory Boss Iced Coffee 4 x 237ml": {
+"key": null,
+"ratio": 1
+},
+"Nescafé Gold Instant Coffee 180-200g": {
+"key": null,
+"ratio": 1
+},
+"Curious Goat Coffee Beans 1 kg": {
+"key": null,
+"ratio": 1
+},
+"Robert Timms Coffee Bags Pk 24": {
+"key": null,
+"ratio": 1
+},
+"Northern Beaches Coffee Roasters Ready To Drink Coffee 1.5 Litre": {
+"key": null,
+"ratio": 1
+},
+"Sanitarium So Good Long Life High Protein Soy Milk 1 Litre": {
+"key": null,
+"ratio": 1
+},
+"Nescafé Blend 43 Instant Coffee 300g": {
+"key": null,
+"ratio": 1
+},
+"Nescafé Coffee Sachets Pk 8-10": {
+"key": null,
+"ratio": 1
+},
+"Moccona Freeze Dried Coffee 400g": {
+"key": null,
+"ratio": 1
+},
+"Moccona Liquid Espresso Coffee Sachets Pk 8": {
+"key": null,
+"ratio": 1
+},
+"Campos Coffee Capsules Pk 10": {
+"key": null,
+"ratio": 1
+},
+"Lavazza Oro Ground Coffee or Coffee Bean Varieties 1 kg": {
+"key": null,
+"ratio": 1
+},
+"Uncle Tobys Muesli Bars 145-185g Pk 5-6": {
+"key": "muesli",
+"ratio": 0.7,
+"same": false
+},
+"Table of Plenty Mini Rice Cakes 84-102g Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Sanitarium UP&GO Liquid Breakfast 6 x 250ml": {
+"key": null,
+"ratio": 1
+},
+"Tassal Smoked Tassie Salmon 150g": {
+"key": null,
+"ratio": 1
+},
+"Nestlé Milo 1 kg": {
+"key": null,
+"ratio": 1
+},
+"Uncle Tobys Le Snak 264g Pk 12": {
+"key": null,
+"ratio": 1
+},
+"Green’s Traditional Baking Mix 340-470g": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Juice Poppers 6 x 250ml": {
+"key": "poppers",
+"ratio": 1,
+"same": true
+},
+"Arnott’s Salada Crispbread 250g": {
+"key": "crackers",
+"ratio": 1,
+"same": false
+},
+"Woolworths Muffin Bar Varieties Pk 10": {
+"key": null,
+"ratio": 1
+},
+"Simson’s Pantry Wise Wheat Wrap Varieties Pk 6": {
+"key": "tortillas",
+"ratio": 0.75,
+"same": false
+},
+"D’Orsogna Quad Pack Varieties 240-320g": {
+"key": "salami",
+"ratio": 1,
+"same": true
+},
+"Woolworths Cheese & Crackers 120g": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Cheese Slice Varieties 500g": {
+"key": "cheeseslices",
+"ratio": 2,
+"same": false
+},
+"Obela Smooth Classic Hommus To Go Singles 3 x 60g": {
+"key": "hummus",
+"ratio": 0.9,
+"same": false
+},
+"Rama Margarine Buttery Spread 500g": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Natural Cheese Sticks 160g": {
+"key": null,
+"ratio": 1
+},
+"Tamar Valley Kids Yoghurt Pouch 110g": {
+"key": null,
+"ratio": 1
+},
+"Farmers Union Greek Style Kids Yogurt Pouch 130g": {
+"key": null,
+"ratio": 1
+},
+"Pauls Kids Yoghurt Pouch 70g": {
+"key": null,
+"ratio": 1
+},
+"Jalna Kids All Natural Yoghurt Pouch 100g": {
+"key": null,
+"ratio": 1
+},
+"Cocobella Yoghurt Pouch 110g": {
+"key": null,
+"ratio": 1
+},
+"Yoplait YOP Yoghurt with Probiotics Pouch 130g": {
+"key": null,
+"ratio": 1
+},
+"Vaalia Kids Probiotic Yoghurt Pouch 140g": {
+"key": null,
+"ratio": 1
+},
+"Pauls Custard Pouch 140g": {
+"key": null,
+"ratio": 1
+},
+"Nestlé Milo Energy Dairy Snack 150g": {
+"key": null,
+"ratio": 1
+},
+"Yogo Choc Flavoured Custard Pouch 120g": {
+"key": null,
+"ratio": 1
+},
+"Raw C Coconut Yoghurt Pouch 140g": {
+"key": null,
+"ratio": 1
+},
+"Farmers Union Greek Style Yoghurt Pouch 130g": {
+"key": null,
+"ratio": 1
+},
+"Muscle Nation 15G Protein Yoghurt Pouch 150g": {
+"key": null,
+"ratio": 1
+},
+"Vaalia Boost Probiotic Yoghurt Pouch 150g": {
+"key": null,
+"ratio": 1
+},
+"Vaalia Probiotics+ Protein Yoghurt Pouch 150g": {
+"key": null,
+"ratio": 1
+},
+"Rokeby 15G Protein Snack Pouch 160g": {
+"key": null,
+"ratio": 1
+},
+"Chobani Greek Yogurt Pouch 140g": {
+"key": null,
+"ratio": 1
+},
+"Pauls Plus+ 15G Protein Yoghurt Pouch 150g": {
+"key": null,
+"ratio": 1
+},
+"YoPRO 15G Protein Yoghurt Pouch 150g": {
+"key": null,
+"ratio": 1
+},
+"YoPRO Perform 20G Protein Yoghurt Pouch 175g": {
+"key": null,
+"ratio": 1
+},
+"Chobani 20G Protein Greek Yogurt Pouch 190g": {
+"key": null,
+"ratio": 1
+},
+"Uncle Tobys Roll Ups 94g Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Cobs Crunchy Popcorn Bars 100g Pk 5": {
+"key": null,
+"ratio": 1
+},
+"Sanitarium UP&GO Protein Energize Liquid Breakfast 6 x 250ml": {
+"key": null,
+"ratio": 1
+},
+"Nice & Natural Nut Bars 180-192g Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Sanitarium Weet-Bix Bites 500-510g": {
+"key": null,
+"ratio": 1
+},
+"Nesquik Cereal Bars 120g Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Arnott’s Snack Right Bites or Crispy Crackers 150g Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Sanitarium Weet-Bix Protein Bites 510g": {
+"key": null,
+"ratio": 1
+},
+"Arnott’s Chocolate Coated Biscuits 160-250g": {
+"key": "biscuits",
+"ratio": 1,
+"same": false
+},
+"Sunbites Grain Waves Wholegrain Chips 170g": {
+"key": "chipsbag",
+"ratio": 1,
+"same": false
+},
+"Raw C Coconut Water 1 Litre": {
+"key": null,
+"ratio": 1
+},
+"Poppin Microwave Popcorn 85-100g": {
+"key": null,
+"ratio": 1
+},
+"Pringles Potato Chips 53g": {
+"key": null,
+"ratio": 1
+},
+"Schweppes Mixers or Mineral Water 4 x 300ml": {
+"key": null,
+"ratio": 1
+},
+"Smith’s Crackers 160g": {
+"key": "shapes",
+"ratio": 0.94,
+"same": false
+},
+"Life Savers Lolly Bags 150-205g": {
+"key": "lollybag",
+"ratio": 1,
+"same": false
+},
+"Red Rock Deli Crackers 135g": {
+"key": null,
+"ratio": 1
+},
+"Musashi Protein Crisp Bar 60g": {
+"key": null,
+"ratio": 1
+},
+"Musashi High Protein Powder 900g": {
+"key": null,
+"ratio": 1
+},
+"Musashi Creatine 350g": {
+"key": null,
+"ratio": 1
+},
+"BSc High Protein Low Carb Bar 60g": {
+"key": null,
+"ratio": 1
+},
+"BSc Protein Powder 800g": {
+"key": null,
+"ratio": 1
+},
+"BSc Creatine 500g": {
+"key": null,
+"ratio": 1
+},
+"NEW Musashi Protein Crunch Bar 55g": {
+"key": null,
+"ratio": 1
+},
+"BSc Protein Powder 400g": {
+"key": null,
+"ratio": 1
+},
+"NEW Musashi Unflavoured Creatine 600g": {
+"key": null,
+"ratio": 1
+},
+"NEW Muscle Nation Oat Bake 60g": {
+"key": null,
+"ratio": 1
+},
+"Muscle Nation Protein Cup 50g": {
+"key": null,
+"ratio": 1
+},
+"Grenade Protein Bar 60g": {
+"key": null,
+"ratio": 1
+},
+"Muscle Nation Protein Bar 60g": {
+"key": null,
+"ratio": 1
+},
+"Muscle Nation Protein Shake or Protein Water 300-400g": {
+"key": null,
+"ratio": 1
+},
+"Muscle Nation Creatine 225g": {
+"key": null,
+"ratio": 1
+},
+"The Man or Lady Bar 50g": {
+"key": null,
+"ratio": 1
+},
+"Famous Nutrition Protein Bar 60g": {
+"key": null,
+"ratio": 1
+},
+"Quest Protein Bar 60g": {
+"key": null,
+"ratio": 1
+},
+"Fulfil Protein Bar 55g": {
+"key": null,
+"ratio": 1
+},
+"Waterdrop Rapid Hydration Drink Cubes 26.4g Pk 12": {
+"key": null,
+"ratio": 1
+},
+"SUP Gummies Pk 35-45": {
+"key": null,
+"ratio": 1
+},
+"Nature’s Way Protein Powder 400g": {
+"key": null,
+"ratio": 1
+},
+"Famous Nutrition Unflavoured Creatine 300g": {
+"key": null,
+"ratio": 1
+},
+"MuscleTech Whey Protein Powder 457-465g": {
+"key": null,
+"ratio": 1
+},
+"Listerine Antibacterial Mouthwash 500ml": {
+"key": null,
+"ratio": 1
+},
+"Oral-B Pro Expert Rechargeable Toothbrush Pk 1": {
+"key": null,
+"ratio": 1
+},
+"Lynx Deodorant or Antiperspirant 165ml": {
+"key": null,
+"ratio": 1
+},
+"Rexona Clinical Deodorant 45ml": {
+"key": null,
+"ratio": 1
+},
+"Hydralyte Effervescent Tablets Pk 10": {
+"key": null,
+"ratio": 1
+},
+"Surf Life Saving Sport SPF 50+ Sunscreen 200ml": {
+"key": null,
+"ratio": 1
+},
+"Little Urchin SPF 50+ Natural Clear Zinc Sunscreen 100g": {
+"key": null,
+"ratio": 1
+},
+"Dettol Antibacterial Hand Wash Refill 950ml": {
+"key": null,
+"ratio": 1
+},
+"Dettol Antibacterial Liquid Hand Wash Pump 250ml": {
+"key": null,
+"ratio": 1
+},
+"Schwarzkopf Extra Care Shampoo or Conditioner 400ml": {
+"key": null,
+"ratio": 1
+},
+"My Soda Shampoo or Conditioner 350ml": {
+"key": null,
+"ratio": 1
+},
+"L’Oréal Elvive Shampoo or Conditioner 340ml": {
+"key": null,
+"ratio": 1
+},
+"Thanks To Nature Shampoo or Conditioner 500ml": {
+"key": null,
+"ratio": 1
+},
+"Dove Shampoo or Conditioner 850ml": {
+"key": null,
+"ratio": 1
+},
+"Pantene Pro-V Shampoo or Conditioner 800-900ml or 3 Minute Miracles Shampoo or Conditioner 600-650ml": {
+"key": null,
+"ratio": 1
+},
+"OGX Shampoo or Conditioner 385ml": {
+"key": null,
+"ratio": 1
+},
+"Head & Shoulders Ultra Men 2 in 1 Shampoo & Conditioner 750ml": {
+"key": null,
+"ratio": 1
+},
+"Sunsilk Shampoo or Conditioner 350ml": {
+"key": null,
+"ratio": 1
+},
+"Oreo Cookies 136-140g": {
+"key": "biscuits",
+"ratio": 0.7,
+"same": false
+},
+"Oreo Mini Cookies Multipack 204g Pk 10": {
+"key": "biscuits",
+"ratio": 1,
+"same": false
+},
+"Colgate 360 Charcoal Floss Tip Bristles Toothbrush Pk 3": {
+"key": null,
+"ratio": 1
+},
+"Head & Shoulders Plus Shampoo 645ml": {
+"key": null,
+"ratio": 1
+},
+"La Mesita Seasoning 35g": {
+"key": null,
+"ratio": 1
+},
+"Farmers Union Greek Style Yoghurt 1 kg": {
+"key": "yoghurt",
+"ratio": 1,
+"same": false
+},
+"Little One’s Baby Wipes Pk 480": {
+"key": null,
+"ratio": 1
+},
+"Dettol Profresh Shower Gel 950ml": {
+"key": null,
+"ratio": 1
+},
+"Australian Cavendish Bananas – Eat Now or Eat Later": {
+"key": "fruit:bananas",
+"ratio": 1,
+"same": true
+},
+"Australian Blackberries 125g Punnet": {
+"key": null,
+"ratio": 1
+},
+"Australian Kids Mini Apples, Pears or Mandarins Pk 5": {
+"key": "fruit:apples",
+"ratio": 1,
+"same": true
+},
+"Australian Jazz Apples": {
+"key": "fruit:apples",
+"ratio": 1.6,
+"same": false
+},
+"Gold Kiwifruit – Product of New Zealand": {
+"key": "fruit:kiwi",
+"ratio": 1.5,
+"same": false
+},
+"Australian Kent Pumpkin": {
+"key": "pumpkin",
+"ratio": 1,
+"same": false
+},
+"Australian Green Asparagus Bunch": {
+"key": null,
+"ratio": 1
+},
+"Australian Sweet Solanato® Tomatoes 200g Punnet": {
+"key": null,
+"ratio": 1
+},
+"Australian Green Oakleaf, Combo Oakleaf or Baby Cos Lettuce": {
+"key": "lettuce",
+"ratio": 1,
+"same": false
+},
+"Australian Brown Onions 1 kg Pack": {
+"key": "onion",
+"ratio": 0.5,
+"same": true
+},
+"Australian Mashing or Roasting Potatoes 1.5 kg Pack": {
+"key": "potato",
+"ratio": 0.75,
+"same": true
+},
+"Woolworths Green Goodness Salad Bowl 240g, Beetroot & Fetta Salad Bowl 200g or Chicken Caesar Salad Bowl 180g Pack": {
+"key": null,
+"ratio": 1
+},
+"Australian Beef Oyster Blade Steak 600g": {
+"key": "chuck",
+"ratio": 0.6,
+"same": false
+},
+"Australian Heart Smart Extra Lean Beef Mince 500g": {
+"key": "mince",
+"ratio": 1,
+"same": false
+},
+"Australian Lean Beef Mince 500g": {
+"key": "mince",
+"ratio": 1,
+"same": false
+},
+"Australian Lamb Midloin Chops": {
+"key": "lambchop",
+"ratio": 1,
+"same": false
+},
+"Australian Lamb Leg Easy Carve Boneless Roast": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Marinated Kebab Varieties with Australian RSPCA Approved Chicken 375g Pk 6": {
+"key": "kebabs",
+"ratio": 1,
+"same": true
+},
+"Australian Fresh RSPCA Approved Chicken Breast Fillets": {
+"key": "breast",
+"ratio": 1,
+"same": true
+},
+"Woolworths Meatball Varieties 400g, Woolworths BBQ Lamb or Beef Kofta Varieties 450g, Woolworths Premium Butcher Style Sausage Varieties 450-500g, Australian Lamb Leg Steak 270g, Woolworths BBQ Marinated Beef or Lamb Steaks 270-300g or Woolworths Roasted Garlic Whole Muscle Tenders 400g with RSPCA Approved Chicken": {
+"key": "kofta",
+"ratio": 1,
+"same": true
+},
+"Woolworths Slow Cooked Beef Medallions in Creamy Peppercorn Sauce 500g": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Slow Cooked Pork Belly Bites in Hickory BBQ Sauce 500g": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Slow Cooked Beef Brisket with Bourbon BBQ Sauce 850g": {
+"key": null,
+"ratio": 1
+},
+"Australian Lean Beef Strips 500g": {
+"key": "beefstrips",
+"ratio": 1,
+"same": true
+},
+"Just Caught Raw Prawns Medium or Large 500g": {
+"key": null,
+"ratio": 1
+},
+"Australian Pork Loin Boneless Roast": {
+"key": "porkloin",
+"ratio": 0.833,
+"same": true
+},
+"Australian Fresh RSPCA Approved Chicken Breast Diced 500g": {
+"key": "diced",
+"ratio": 0.5,
+"same": true
+},
+"Australian Fresh Salmon Portions Skin On 460g Pk 4": {
+"key": null,
+"ratio": 1
+},
+"Australian Beef Rump Steak Bulk Pack": {
+"key": "steak",
+"ratio": 1.43,
+"same": true
+},
+"Tip Top English Muffin Varieties Pk 6": {
+"key": null,
+"ratio": 1
+},
+"Don Sliced Meats 160-200g": {
+"key": "ham",
+"ratio": 0.56,
+"same": false
+},
+"Bread Loaf Varieties 650-700g": {
+"key": "bread",
+"ratio": 1,
+"same": false
+},
+"Latina Fresh Filled Pasta Varieties 625g": {
+"key": "filledpasta",
+"ratio": 1,
+"same": true
+},
+"Dreamy Choc, Triple Choc, Oatmeal & Raisin or White Choc & Macadamia Cookie Varieties Pk 5": {
+"key": null,
+"ratio": 1
+},
+"Woolworths Australian Country Style Hot Roast RSPCA Approved Chicken": {
+"key": "bbqchk",
+"ratio": 1,
+"same": true
+},
+"Cadbury Bars or Mini Roll Varieties Pk 5": {
+"key": null,
+"ratio": 1
+},
+"D’Orsogna Chorizo": {
+"key": null,
+"ratio": 1
+},
+"Don Melosi Double Smoked Leg Ham – Sliced or Shaved": {
+"key": "ham",
+"ratio": 3.125,
+"same": false
+},
+"Don Italian Style Salami": {
+"key": "salami",
+"ratio": 4.17,
+"same": false
+},
+"Cremissimo Ice Cream Tub 1 Litre": {
+"key": "icecream",
+"ratio": 0.833,
+"same": false
+},
+"Rokeby Protein Smoothie 425ml": {
+"key": null,
+"ratio": 1
+},
+"Flora ProActiv 500g": {
+"key": null,
+"ratio": 1
+},
+"Bega Block, Grated or Sliced Cheese Varieties 500g": {
+"key": "cheese",
+"ratio": 1,
+"same": false
+},
+"Dare Iced Coffee 500ml": {
+"key": "icedcoffee",
+"ratio": 0.667,
+"same": false
+},
+"Peters Frosty Fruits 420-600ml Pk 6-8": {
+"key": null,
+"ratio": 1
+},
+"Bulla Creamy Classics Sundae Cones 580ml Pk 4": {
+"key": null,
+"ratio": 1
+},
+"Connoisseur Ice Cream Sticks 320-400ml Pk 4-6": {
+"key": null,
+"ratio": 1
+},
+"East Coast Juice Varieties 2 Litre": {
+"key": "juice2l",
+"ratio": 1,
+"same": false
+}
+}
+}

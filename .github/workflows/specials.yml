@@ -16,14 +16,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Read the catalogue
         run: python3 tools/update_specials.py specials.json
+      - name: Learn regular prices from the catalogue
+        run: python3 tools/derive_prices.py specials.json specials_map.json tools/library.json prices.json
       - name: Save if anything changed
         run: |
-          if git diff --quiet -- specials.json; then echo "No new specials."; exit 0; fi
+          if [ -z "$(git status --porcelain specials.json prices.json)" ]; then echo "No new specials."; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add specials.json
+          git add specials.json; if [ -f prices.json ]; then git add prices.json; fi
           git commit -m "Update Woolworths specials"
           git push
