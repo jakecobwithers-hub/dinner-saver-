@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-13T19:58+00:00",
+"updated": "2026-10-19T20:02+00:00",
 "source": "Woolworths VIC weekly catalogue (via SaleFinder)",
 "catalogues": [
 {
@@ -1088,6 +1088,1107 @@
 "unit": "each",
 "was": 2.95,
 "cat": "food-and-beverage/groceries/canned-and-packet-food"
+}
+]
+},
+{
+"id": "68436",
+"from": "2026-10-21",
+"to": "2026-10-27",
+"items": [
+{
+"name": "Bega Peanut Butter 470g",
+"price": 3.45,
+"unit": "each",
+"was": 6.9,
+"cat": "food-and-beverage/groceries/jams-and-spreads"
+},
+{
+"name": "Bibigo Dumplings or Bao Buns 279-320g",
+"price": 4.45,
+"unit": "each",
+"was": 8.9,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "V Energy Drink 4 x 250ml",
+"price": 6.0,
+"unit": "each",
+"was": 12.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Australian Beef Porterhouse Steak & Butter 400g",
+"price": 16.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Kensington Pride Mangoes",
+"price": 3.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Yoplait Petit Miam Kids Yoghurt Pouch 70g",
+"price": 1.0,
+"unit": "each",
+"was": 1.4,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Dairy Farmers Thick & Creamy Yoghurt 140-150g",
+"price": 1.65,
+"unit": "each",
+"was": 3.3,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Schweppes Mixers or Mineral Water 4 x 300ml",
+"price": 4.0,
+"unit": "each",
+"was": 8.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Quilton Classic 3 Ply Toilet Paper Pk 8",
+"price": 4.3,
+"unit": "each",
+"was": 8.6,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Cold Power Laundry Liquid 2 Litre, Powder 2 kg or Capsules Pk 29",
+"price": 13.0,
+"unit": "each",
+"was": 26.0,
+"cat": "food-and-beverage/groceries/household-cleaning"
+},
+{
+"name": "Oreo Cookies 136-140g",
+"price": 1.6,
+"unit": "each",
+"was": 3.2,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Poppin Popcorn 110g",
+"price": 2.75,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Pepsi, Solo or Schweppes Soft Drink Varieties 10 x 375ml",
+"price": 10.0,
+"unit": "each",
+"was": 20.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Kirks Soft Drink Varieties 10 x 375ml",
+"price": 8.0,
+"unit": "each",
+"was": 16.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Tostitos Corn Tortilla Chips 175g",
+"price": 2.6,
+"unit": "each",
+"was": 5.2,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Fantastic Delites Crackers 100g",
+"price": 1.4,
+"unit": "each",
+"was": 2.8,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Bhuja Mix 140-160g",
+"price": 2.25,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Maggi Noodle Cups 58-65g",
+"price": 1.25,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Gravox Liquid Gravy or Finishing Sauce 165g",
+"price": 1.85,
+"unit": "each",
+"was": 3.7,
+"cat": "food-and-beverage/groceries/cooking-seasoning-and-gravy"
+},
+{
+"name": "Uncle Tobys Plus 620-705g or Nestlé Milo Cereal 535-620g",
+"price": 4.75,
+"unit": "each",
+"was": 9.5,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "La Gina Olive Oil 1 Litre",
+"price": 13.0,
+"unit": "each",
+"was": 26.0,
+"cat": "food-and-beverage/groceries/cooking-seasoning-and-gravy"
+},
+{
+"name": "SunRice Jasmine Fragrant Rice 5 kg",
+"price": 13.5,
+"unit": "each",
+"was": 27.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Sanitarium Weet-Bix 575g",
+"price": 2.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Green’s Deluxe Baking Mixes 275-630g",
+"price": 2.85,
+"unit": "each",
+"was": 5.7,
+"cat": "food-and-beverage/groceries/baking"
+},
+{
+"name": "Voost Magnesium Effervescent Tablets Pk 20",
+"price": 5.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Caltrate Bone & Muscle Tablets Pk 100",
+"price": 10.5,
+"unit": "each",
+"was": 21.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Berocca Energy Everyday Multivitamin Effervescent Tablets Pk 45",
+"price": 13.5,
+"unit": "each",
+"was": 27.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Centrum Advance 50+ Multivitamin Tablets Pk 120",
+"price": 13.5,
+"unit": "each",
+"was": 27.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way Adult Vita Gummies Multivitamin Pk 120",
+"price": 14.0,
+"unit": "each",
+"was": 28.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way Kids Smart Vita Gummies Multi-Vitamin Plus Pk 120",
+"price": 16.0,
+"unit": "each",
+"was": 32.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way Kids Smart Vita Gummies Immune Defence Pk 120",
+"price": 16.0,
+"unit": "each",
+"was": 32.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way High Strength Magnesium Tablets Pk 250",
+"price": 20.0,
+"unit": "each",
+"was": 40.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Own Odourless Fish Oil 1500mg Capsules Pk 200",
+"price": 23.25,
+"unit": "each",
+"was": 46.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Cenovis Sugarless C 500mg Chewable Tablets Pk 320",
+"price": 14.75,
+"unit": "each",
+"was": 29.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Life-Space Broad Spectrum Probiotic Capsules Pk 40",
+"price": 20.0,
+"unit": "each",
+"was": 40.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Ostelin Vitamin D3 1000IU Capsules Pk 250",
+"price": 24.75,
+"unit": "each",
+"was": 49.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Swisse Ultiboost Vitamin D Capsules Pk 400",
+"price": 19.75,
+"unit": "each",
+"was": 39.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Swisse Ultiboost Magnesium Glycinate Tablets Pk 120",
+"price": 24.75,
+"unit": "each",
+"was": 49.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Swisse Ultiboost Odourless Super Strength Wild Fish Oil 2000mg Capsules Pk 200",
+"price": 27.5,
+"unit": "each",
+"was": 55.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Swisse Ultiboost Calm + Sleep Gummies Pk 60",
+"price": 14.75,
+"unit": "each",
+"was": 29.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Swisse Ultivite Women’s Multivitamin Tablets Pk 100",
+"price": 29.75,
+"unit": "each",
+"was": 59.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Swisse Ultivite Men’s Multivitamin Tablets Pk 100",
+"price": 29.75,
+"unit": "each",
+"was": 59.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Blackmores Magnesium Glycinate Tablets Pk 100",
+"price": 20.0,
+"unit": "each",
+"was": 40.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Blackmores Glucosamine Sulfate 1500mg Tablets Pk 150",
+"price": 25.0,
+"unit": "each",
+"was": 50.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Blackmores Macu-Vision Tablets Pk 125",
+"price": 25.0,
+"unit": "each",
+"was": 50.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Blackmores Bio C 1000mg Tablets Pk 150",
+"price": 25.0,
+"unit": "each",
+"was": 50.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Blackmores Pregnancy & Breast-Feeding Gold Capsules Pk 120",
+"price": 25.0,
+"unit": "each",
+"was": 50.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Blackmores Fish Oil 1000mg Capsules Pk 400",
+"price": 30.0,
+"unit": "each",
+"was": 60.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Dove Butter Boy 72h Antiperspirant Deodorant 250ml",
+"price": 6.0,
+"unit": "each",
+"was": 12.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Dove Butter Boy Vanilla Body Wash Birthday Cake Cookie 700ml",
+"price": 11.0,
+"unit": "each",
+"was": 22.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Dove Butter Boy Exfoliating Body Polish Black Forest Cookie 298g",
+"price": 9.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Dove Advanced Care 72h Roll On Deodorant 50ml",
+"price": 3.0,
+"unit": "each",
+"was": 6.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Dove Shampoo or Conditioner 850ml",
+"price": 9.75,
+"unit": "each",
+"was": 19.5,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Dove Body Wash 1 Litre",
+"price": 9.5,
+"unit": "each",
+"was": 19.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Schwarzkopf Live Semi Permanent Hair Colour Pk 1",
+"price": 7.0,
+"unit": "each",
+"was": 14.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "got2b Glued Blasting Freeze Hair Spray 300ml",
+"price": 8.5,
+"unit": "each",
+"was": 17.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Maybelline Fit Me Matte & Poreless Foundation 30ml",
+"price": 14.0,
+"unit": "each",
+"was": 28.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "OGX Shampoo or Conditioner 385ml",
+"price": 11.5,
+"unit": "each",
+"was": 23.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Oral-B Vitality Pro Rechargeable Toothbrush Pk 1",
+"price": 34.5,
+"unit": "each",
+"was": 69.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Organic Care Shampoo or Conditioner 400ml",
+"price": 2.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Neutrogena Hydro Boost Hyaluronic Acid Water Gel Face Moisturiser 50g",
+"price": 19.0,
+"unit": "each",
+"was": 38.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Libra Ultra Thin Pads Pk 6-14",
+"price": 3.0,
+"unit": "each",
+"was": 6.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Vaseline Pro Derma Brightening or Smoothing Body Lotion 250ml",
+"price": 7.5,
+"unit": "each",
+"was": 15.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Sukin Signature Foaming Facial Cleanser 125ml",
+"price": 7.75,
+"unit": "each",
+"was": 15.5,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Sukin Body Wash or Hand Wash Refill 1 Litre",
+"price": 9.5,
+"unit": "each",
+"was": 19.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "Sukin Shampoo or Conditioner 1 Litre",
+"price": 16.0,
+"unit": "each",
+"was": 32.0,
+"cat": "food-and-beverage/groceries/beauty"
+},
+{
+"name": "McCain Superfries 900g",
+"price": 3.9,
+"unit": "each",
+"was": 4.3,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Bulla Creamy Classics Ice Cream Tub 2 Litre",
+"price": 7.0,
+"unit": "each",
+"was": 12.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Ingham’s Chicken Varieties 1.5 kg",
+"price": 15.0,
+"unit": "each",
+"was": 16.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Just Cook Hargow or Gyoza 750g",
+"price": 16.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "On The Menu Frozen Meals 260g",
+"price": 3.95,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Fitness Outcomes Frozen Meals 350g",
+"price": 7.9,
+"unit": "each",
+"was": 9.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Paddle Pop Twister Mini Ice Block Sticks 300ml Pk 6",
+"price": 6.5,
+"unit": "each",
+"was": 8.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Cheer Cheese Slices 500g",
+"price": 9.9,
+"unit": "each",
+"was": 11.5,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Woolworths Muffin Bar Varieties Pk 10",
+"price": 5.6,
+"unit": "each",
+"was": 6.4,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "John West Tuna 12 x 95g",
+"price": 18.0,
+"unit": "each",
+"was": 19.0,
+"cat": "food-and-beverage/groceries/seafood"
+},
+{
+"name": "Woolworths Orange Juice 2 Litre",
+"price": 4.2,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Jordans Clusters or Granola 400-750g",
+"price": 7.0,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Uncle Tobys Roll-Ups Value Pack 234g Pk 15",
+"price": 8.0,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Woolworths Cheese Block 500g",
+"price": 6.6,
+"unit": "each",
+"was": 6.8,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Uncle Tobys Le Snak 264g Pk 12",
+"price": 8.0,
+"unit": "each",
+"was": 8.8,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Australian Lebanese Cucumbers",
+"price": 4.9,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Afourer Mandarins",
+"price": 3.5,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Packham Pears",
+"price": 3.5,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Sweetest Batch® Premium Blueberries 200g Punnet",
+"price": 5.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Green Kiwifruit – Product of New Zealand",
+"price": 7.9,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Loose Sweet Corn",
+"price": 1.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Green Asparagus Bunch",
+"price": 1.2,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Red Onions 1 kg Pack",
+"price": 3.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Qukes® Baby Cucumbers 250g",
+"price": 3.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Tinyberry Tomatoes 125g",
+"price": 3.0,
+"unit": "each",
+"was": 4.9,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Steggles Family Roast Whole Chicken",
+"price": 4.5,
+"unit": "per kg",
+"was": 7.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Pork Leg Boneless Roast",
+"price": 9.0,
+"unit": "per kg",
+"was": 9.9,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Fresh RSPCA Approved Chicken Drumsticks Pk 10",
+"price": 4.3,
+"unit": "per kg",
+"was": 4.8,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Woolworths Slow Cooked Chinese Style BBQ Pork with Char Siu Sauce 750g",
+"price": 14.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Strength Meals Co. Slow Cooked Varieties 500-600g",
+"price": 12.0,
+"unit": "each",
+"was": 15.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Australian Lamb Leg Steak 540g",
+"price": 15.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Thawed Green King Prawns",
+"price": 20.0,
+"unit": "per kg",
+"was": 26.0,
+"cat": "food-and-beverage/groceries/seafood"
+},
+{
+"name": "Woolworths Cocktail Prawns Peeled & Deveined 220g",
+"price": 10.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/seafood",
+"low": true
+},
+{
+"name": "Market Value Thin BBQ Sausages 1.8 kg",
+"price": 10.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Pork Belly Roast",
+"price": 18.0,
+"unit": "per kg",
+"was": 20.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Abe’s Bagels Varieties 360g Pk 4",
+"price": 4.0,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Primo Kransky Double Smoked or Cheese",
+"price": 11.25,
+"unit": "per kg",
+"was": 22.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Mission Wrap Varieties 567g Pk 8",
+"price": 4.5,
+"unit": "each",
+"was": 5.6,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Rana Fresh Filled Pasta Varieties 325g",
+"price": 5.4,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Mini Pastry Varieties Pk 8",
+"price": 4.2,
+"unit": "each",
+"was": 4.8,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Primo Protein Sliced Meat Varieties 150-190g",
+"price": 4.1,
+"unit": "each",
+"was": 6.9,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Cheese & Bacon Rolls Pk 6",
+"price": 6.0,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Woolworths Prepacked Salads 250g",
+"price": 3.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled",
+"deal": "2 for $6.00"
+},
+{
+"name": "D’Orsogna Shortcut Bacon 1 kg",
+"price": 16.0,
+"unit": "each",
+"was": 22.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "D’Orsogna Premium Australian Ham off the Bone – Sliced or Shaved",
+"price": 30.0,
+"unit": "per kg",
+"was": 35.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Golden Circle Fruit Drink 1 Litre",
+"price": 1.5,
+"unit": "each",
+"was": 3.1,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Cottee’s Cordial 1 Litre",
+"price": 2.95,
+"unit": "each",
+"was": 5.9,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Cheezels 125g",
+"price": 1.75,
+"unit": "each",
+"was": 3.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Smith’s Minis Canisters 65-150g",
+"price": 2.75,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties 6 x 250ml",
+"price": 6.6,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties 24 x 375ml",
+"price": 27.0,
+"unit": "each",
+"was": 45.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Schweppes Infused Mineral Water Varieties 10 x 375ml",
+"price": 10.0,
+"unit": "each",
+"was": 20.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Nestlé Milo 1 kg",
+"price": 14.0,
+"unit": "each",
+"was": 17.5,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Moccona Coffee Sachets Pk 8-10",
+"price": 3.95,
+"unit": "each",
+"was": 7.9,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Jarrah Hot Chocolate Sachets Pk 8-10 or Jarrah Coffee Tins 250g",
+"price": 4.25,
+"unit": "each",
+"was": 8.5,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Nescafé Espresso Coffee Concentrate 500ml",
+"price": 5.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "L’OR Nespresso Compatible Coffee Capsules Pk 10",
+"price": 5.0,
+"unit": "each",
+"was": 8.7,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Moccona Classic Freeze Dried Coffee 200g",
+"price": 14.0,
+"unit": "each",
+"was": 23.6,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Nescafé Blend 43 Coffee 140-150g",
+"price": 7.25,
+"unit": "each",
+"was": 14.5,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Curious Goat Coffee Beans 1 kg",
+"price": 22.0,
+"unit": "each",
+"was": 28.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Sanitarium So Good Long Life Barista Soy Milk 1 Litre",
+"price": 3.0,
+"unit": "each",
+"was": 3.5,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "SunRice Protein Rice Cups 2 x 125g or Rice Pouches 250g",
+"price": 2.7,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Nongshim Noodles 460-600g Pk 4-5",
+"price": 5.0,
+"unit": "each",
+"was": 8.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Health Lab Balls 40g or Diamonds 30g",
+"price": 2.0,
+"unit": "each",
+"was": 3.5,
+"cat": "food-and-beverage/groceries/health-foods"
+},
+{
+"name": "Funday Gummies 45-50g",
+"price": 3.5,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Cadbury Baking Chocolate Chips, Melts or Blocks 165-225g",
+"price": 5.25,
+"unit": "each",
+"was": 7.5,
+"cat": "food-and-beverage/groceries/baking"
+},
+{
+"name": "Nice & Natural Nut Bars 180-192g Pk 6",
+"price": 2.75,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Healtheries Potato Stix or Rice Wheels 120-126g Pk 6",
+"price": 4.0,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/health-foods"
+},
+{
+"name": "Mayver’s Low Carb High Protein Bars 128g Pk 4",
+"price": 6.6,
+"unit": "each",
+"was": 8.3,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Carman’s Muesli Bars 210-270g Pk 6",
+"price": 6.0,
+"unit": "each",
+"was": 7.5,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Carman’s Granola 425-450g",
+"price": 7.0,
+"unit": "each",
+"was": 8.9,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Coconut Imported – Product of Samoa/Vietnam",
+"price": 4.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Alishaan Super Basmati Rice 5 kg",
+"price": 16.0,
+"unit": "each",
+"was": 32.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Farmers Harvest Oil 4 Litre",
+"price": 17.0,
+"unit": "each",
+"was": 34.0,
+"cat": "food-and-beverage/groceries/cooking-seasoning-and-gravy"
+},
+{
+"name": "Passage To India Simmer Sauce 375g",
+"price": 5.0,
+"unit": "each",
+"was": 6.3,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "NEW Inside Out Pokemon or Hello Kitty Kids Yoghurt Pouch 110g",
+"price": 2.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "NEW Inside Out Dragon Ball 15G Protein Yoghurt Pouch 150g",
+"price": 2.4,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Sanitarium UP&GO Protein Energize Drink 500ml",
+"price": 3.6,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Dare Iced Coffee 500ml",
+"price": 3.3,
+"unit": "each",
+"was": 4.3,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Dairy Farmers Thick & Creamy Yoghurt 550-600g",
+"price": 4.6,
+"unit": "each",
+"was": 6.6,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "YoPRO 15G Protein Yoghurt Pouch 150g",
+"price": 2.5,
+"unit": "each",
+"was": 3.2,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Activia Probiotic Yoghurt 4 x 125g",
+"price": 4.8,
+"unit": "each",
+"was": 6.0,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Bulla Murray St Ice Cream Tub 1 Litre",
+"price": 6.0,
+"unit": "each",
+"was": 12.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Bega Cheese Stringers 160g Pk 8",
+"price": 5.6,
+"unit": "each",
+"was": 7.0,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Gelativo Gelato Cups 500ml Pk 4",
+"price": 5.0,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/desserts"
+},
+{
+"name": "Bulla Creamy Classics Sundae Cones 580ml Pk 4",
+"price": 6.25,
+"unit": "each",
+"was": 12.5,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Streets Golden Gaytime 400ml Pk 4",
+"price": 6.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Obela Garnished Dips 220g",
+"price": 4.0,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Philadelphia Cream Cheese Block or Spread 215-250g",
+"price": 4.5,
+"unit": "each",
+"was": 5.7,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Nudie Nothing But Carrot Orange Apple & Ginger 2 Litre",
+"price": 8.8,
+"unit": "each",
+"was": 9.8,
+"cat": "food-and-beverage/groceries/drinks"
 }
 ]
 }
