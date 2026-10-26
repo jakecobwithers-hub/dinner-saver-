@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-20T19:58+00:00",
+"updated": "2026-10-26T20:03+00:00",
 "source": "Woolworths VIC weekly catalogue (via SaleFinder)",
 "catalogues": [
 {
@@ -1100,6 +1100,1108 @@
 "unit": "each",
 "was": 9.8,
 "cat": "food-and-beverage/groceries/drinks"
+}
+]
+},
+{
+"id": "68572",
+"from": "2026-10-28",
+"to": "2026-11-03",
+"items": [
+{
+"name": "Cadbury Share Packs 126-180g, Mars Chocolate Share Packs 132-192g, Nestlé Chocolate Share Packs 88-158g",
+"price": 3.75,
+"unit": "each",
+"was": 7.5,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Coca-Cola, Sprite or Fanta Soft Drink Varieties 10 x 375ml",
+"price": 11.5,
+"unit": "each",
+"was": 23.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Cadbury Favourites 470g",
+"price": 12.0,
+"unit": "each",
+"was": 24.0,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Smith’s, Doritos or Red Rock Deli Party Size Potato Chips 290-380g",
+"price": 6.8,
+"unit": "each",
+"was": 8.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Streets Cyclone or Calippo 525-688ml Pk 5-10",
+"price": 6.9,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Streets Paddle Pop 544ml Pk 8",
+"price": 6.0,
+"unit": "each",
+"was": 10.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Quilton Tuffy 4 Ply Paper Towel Pk 3",
+"price": 3.0,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/household-cleaning"
+},
+{
+"name": "Listerine Freshburst Antibacterial Mouthwash 1 Litre",
+"price": 6.25,
+"unit": "each",
+"was": 12.5,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way Adult Vita Gummies Multivitamin Pk 120",
+"price": 14.0,
+"unit": "each",
+"was": 28.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way Kids Smart Vita Gummies Multi-Vitamin Pk 120",
+"price": 16.0,
+"unit": "each",
+"was": 32.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Nature’s Way High Strength Magnesium Tablets Pk 250",
+"price": 20.0,
+"unit": "each",
+"was": 40.0,
+"cat": "food-and-beverage/groceries/health-and-wellbeing"
+},
+{
+"name": "Cadbury Chocolate Share Packs 126-180g, The Natural Confectionery Co. or Sour Patch Kids Mini Share Packs 160g, Mars Chocolate Share Packs 132-192g or Nestlé Chocolate Share Packs 88-158g",
+"price": 3.75,
+"unit": "each",
+"was": 7.5,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Haribo Share Packs 200g",
+"price": 3.0,
+"unit": "each",
+"was": 6.0,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Nestlé Medium Bars 35-50g or Allen’s Mini Bags 60-64g",
+"price": 1.5,
+"unit": "each",
+"was": 3.0,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Chupa Chups Pk 35 210-290g",
+"price": 5.0,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Woolworths Lolly Bag Varieties 170-320g",
+"price": 2.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "Woolworths Party Mix Share Bag 500g",
+"price": 5.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "Cadbury Furry Friends 100g Pk 5",
+"price": 4.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "Poppin Microwave Popcorn Mini Size Snack Bags 300g Pk 6",
+"price": 5.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks",
+"low": true
+},
+{
+"name": "Mentos Fruit Chews 405g",
+"price": 6.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "Mars Large Share Packs 257-320g",
+"price": 8.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "KitKat Share Packs 252-256g",
+"price": 7.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "Allen’s Party Pack Lolly Bags 1 kg",
+"price": 14.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery",
+"low": true
+},
+{
+"name": "Halloween Glow Spinners Pk 2",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Glow Wands – Assorted",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Glow Green Skull or Purple Fingers",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween 10cm Glow Sticks Pk 4",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Glow Star Glasses",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Glow Necklace – Assorted",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Magical Glow Wands – Assorted",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Glow Mask – Assorted",
+"price": 1.5,
+"unit": "each",
+"was": 2.5,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Creepy Crawlies Packs – Assorted",
+"price": 2.0,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Felt Bags – Assorted",
+"price": 2.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Halloween Costume Dark Ninja 8-10 Yrs",
+"price": 9.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Lindt Lindor Cornet 268-272g",
+"price": 15.0,
+"unit": "each",
+"was": 30.0,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Toblerone Chocolate Blocks 340-360g",
+"price": 10.0,
+"unit": "each",
+"was": 20.0,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Cadbury Roses 380g",
+"price": 10.0,
+"unit": "each",
+"was": 20.0,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Cadbury Roses Tin 485g",
+"price": 15.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/confectionery"
+},
+{
+"name": "Shapes Light & Crispy or Fully Loaded Crackers 120-130g",
+"price": 2.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Takis Tortilla Chips 190g",
+"price": 4.2,
+"unit": "each",
+"was": 7.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Tasmanian Heritage Brie or Camembert 200g",
+"price": 6.0,
+"unit": "each",
+"was": 12.5,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Mersey Valley Cheddar Varieties 235g",
+"price": 7.5,
+"unit": "each",
+"was": 9.9,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Doritos Dips 200g",
+"price": 3.5,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled",
+"deal": "2 for $7.00"
+},
+{
+"name": "MonDeli Sliced Varieties 80-100g",
+"price": 6.0,
+"unit": "each",
+"was": 7.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled",
+"deal": "2 for $12.00"
+},
+{
+"name": "Don Salami Varieties 200g",
+"price": 6.5,
+"unit": "each",
+"was": 8.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled",
+"deal": "2 for $13.00"
+},
+{
+"name": "Australian Qukes® Baby Cucumbers 250g Pack",
+"price": 3.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "D’Orsogna Deli Fresh Varieties 80-100g",
+"price": 3.4,
+"unit": "each",
+"was": 4.2,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Olina’s Bakehouse Gluten Free Seeded Brown Rice Crackers 80g",
+"price": 3.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Chris’ Homestyle Dip Varieties Pk 3 x 60g",
+"price": 4.0,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Always Fresh Sundried Cherry Tomatoes 185g",
+"price": 4.3,
+"unit": "each",
+"was": 5.1,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Jarlsberg Cheese Block Original 250g",
+"price": 9.0,
+"unit": "each",
+"was": 10.5,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Grazing Table Platter",
+"price": 65.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Family Favourites Platter",
+"price": 35.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Kirks Soft Drink Varieties 1.25 Litre",
+"price": 1.8,
+"unit": "each",
+"was": 3.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties 30 x 375ml",
+"price": 32.0,
+"unit": "each",
+"was": 40.0,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Peters Twin Pole or Lil’ Pops 500-590ml Pk 8-9",
+"price": 5.9,
+"unit": "each",
+"was": 8.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Streets Bubble O’ Bill Ice Cream Sticks 404ml Pk 4",
+"price": 8.0,
+"unit": "each",
+"was": 10.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Smith’s Thinly Cut Potato Chips 175g",
+"price": 2.5,
+"unit": "each",
+"was": 3.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Arnott’s Salada Crispbreads 250g",
+"price": 3.4,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Woolworths Marinated Kebab Varieties with RSPCA Approved Chicken 375g Pk 6",
+"price": 7.5,
+"unit": "each",
+"was": 8.5,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Simson’s Pantry High Protein Low Carb Wraps Pk 5",
+"price": 4.7,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Australian Lean Beef Mince 500g",
+"price": 9.8,
+"unit": "each",
+"was": 10.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Woolworths Slow Cooked Chinese Style BBQ Pork with Char Siu Sauce 750g",
+"price": 14.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Beef Oyster Blade Steak 600g",
+"price": 16.0,
+"unit": "each",
+"was": 18.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Lamb Forequarter Chops",
+"price": 19.0,
+"unit": "per kg",
+"was": 24.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Australian Lamb Midloin Chops",
+"price": 26.0,
+"unit": "per kg",
+"was": 34.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "NEW Christmas Cockatoo, Koala or Wombat Plush",
+"price": 8.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas Felt Kangaroo, Platypus or Galah Tree Decoration",
+"price": 5.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas 80mm Baubles Pk 4 – Assorted",
+"price": 8.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas Glass",
+"price": 4.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas Melamine Kids Section Plate",
+"price": 4.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas Melamine Kids Bowl",
+"price": 4.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas Melamine Kids Tumbler",
+"price": 4.5,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Christmas Premium Van Mug",
+"price": 8.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Christmas Battery Operated Premium Wire Lights Assorted Pk 20",
+"price": 8.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "Christmas Solar Icicle Lights Assorted Pk 500",
+"price": 32.0,
+"unit": "each",
+"was": 40.0,
+"cat": "food-and-beverage/groceries/home-and-outdoor"
+},
+{
+"name": "NEW Woolworths Caramelised Biscuit Trifle or Woolworths Pistachio Tiramisu Pk 2",
+"price": 12.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/desserts"
+},
+{
+"name": "NEW Woolworths Festive Mini Dessert Selection Pk 12",
+"price": 16.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/desserts"
+},
+{
+"name": "NEW Gingerbread People 200g Pk 10",
+"price": 4.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Choc Mint Cookie, Caramel Crunch Star Shortbread or Fruit Mince Filled Shortbread Pk 12",
+"price": 4.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Fruit Mince Pies Pk 4",
+"price": 4.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Australian Kensington Pride Mangoes",
+"price": 3.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Delite Seedless Mandarins",
+"price": 3.9,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Kanzi® Apples",
+"price": 5.9,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Green Kiwifruit – Product of New Zealand",
+"price": 7.9,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Continental Cucumber",
+"price": 2.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Truss Tomatoes",
+"price": 3.9,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Cocktail Truss Tomatoes 250g Pack",
+"price": 2.9,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Woolworths Korean Style Salad Kit 400g, Asian Style Salad Kit 350g or Honey Mustard Salad Kit 285g",
+"price": 5.0,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Woolworths Australian Pistachios Roasted & Salted 400g",
+"price": 12.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks",
+"low": true
+},
+{
+"name": "Australian Snackables Carrots 250g Pack",
+"price": 3.0,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Australian Tinyberry Tomatoes 125g",
+"price": 3.0,
+"unit": "each",
+"was": 4.9,
+"cat": "food-and-beverage/groceries/fruit-and-vegetables"
+},
+{
+"name": "Woolworths Beef, Pork or Chicken Sausage or Chipolata Varieties 550g",
+"price": 6.0,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/meat",
+"deal": "2 for $12.00"
+},
+{
+"name": "Australian Beef Porterhouse Steak Bulk Pack",
+"price": 35.0,
+"unit": "per kg",
+"was": null,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Woolworths Australian Angus or Steakhouse Beef Burgers 454g Pk 4",
+"price": 8.0,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "macro Free Range Australian Fresh RSPCA Approved Chicken Breast Fillets Skinless Bulk Tray",
+"price": 12.0,
+"unit": "per kg",
+"was": 13.7,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Tassal Atlantic Salmon Skin On 300g Pk 2",
+"price": 18.0,
+"unit": "each",
+"was": 22.0,
+"cat": "food-and-beverage/groceries/seafood"
+},
+{
+"name": "macro Australian Grass Fed Beef Scotch Fillet 270g",
+"price": 13.5,
+"unit": "each",
+"was": 16.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Ocean Blue Salmon Smoked 300g",
+"price": 15.0,
+"unit": "each",
+"was": 19.0,
+"cat": "food-and-beverage/groceries/seafood"
+},
+{
+"name": "Australian Lamb Easy Carve Boneless Roast",
+"price": 22.0,
+"unit": "per kg",
+"was": 23.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Woolworths Boneless Kyiv Varieties 700g with RSPCA Approved Chicken",
+"price": 7.5,
+"unit": "each",
+"was": 8.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Woolworths Slow Cooked Bavarian Style Australian Pork Knuckle",
+"price": 11.5,
+"unit": "per kg",
+"was": 14.0,
+"cat": "food-and-beverage/groceries/meat"
+},
+{
+"name": "Chicken Sandwich Schnitzels",
+"price": 1.4,
+"unit": "each",
+"was": 2.8,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Golden Crumpet Rounds Pk 6",
+"price": 2.6,
+"unit": "each",
+"was": 5.2,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Latina Fresh Filled Pasta Varieties 375g",
+"price": 4.0,
+"unit": "each",
+"was": 8.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Mr Kipling Slice Varieties Pk 6",
+"price": 3.1,
+"unit": "each",
+"was": 6.2,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Don Melosi Double Smoked Ham – Sliced or Shaved",
+"price": 26.0,
+"unit": "per kg",
+"was": 34.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Bread Loaf Varieties 650-700g",
+"price": 3.0,
+"unit": "each",
+"was": 3.3,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Don Italian Style Salami – Sliced or Shaved",
+"price": 29.5,
+"unit": "per kg",
+"was": 37.0,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Anzac Biscuits, Choc Chip or Funfetti Cookies Pk 24",
+"price": 6.0,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/bakery"
+},
+{
+"name": "Bread Roll Varieties Pk 6",
+"price": 3.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/bakery",
+"low": true
+},
+{
+"name": "Crusty Cob Loaf Varieties",
+"price": 3.4,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/bakery",
+"low": true
+},
+{
+"name": "Streets Haribo or Bluey Frozen Dessert Sticks 340-360ml Pk 4-6",
+"price": 6.9,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Bega Cheese Block or Grated 500g",
+"price": 9.5,
+"unit": "each",
+"was": 10.5,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Primo Stackers, Trios or Protein Snacking Varieties 45-57g",
+"price": 3.0,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Westgold Grass Fed Butter 250g",
+"price": 4.5,
+"unit": "each",
+"was": 4.8,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Nudie Nothing But Oranges Pulp Free Juice 2 Litre",
+"price": 8.5,
+"unit": "each",
+"was": 9.5,
+"cat": "food-and-beverage/groceries/drinks"
+},
+{
+"name": "Reese’s Cones 472ml Pk 4 or Hershey’s or Reese’s Ice Cream Tub 1 Litre",
+"price": 5.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Bulla FroYo Tub 1 Litre",
+"price": 5.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Meadowlea Original Spread 1 kg",
+"price": 5.95,
+"unit": "each",
+"was": 6.65,
+"cat": "food-and-beverage/groceries/jams-and-spreads"
+},
+{
+"name": "Perfect Italiano Grated Cheese Varieties 450g",
+"price": 8.5,
+"unit": "each",
+"was": 10.2,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "NEW Wicked Sister Loaded 25G Protein Pudding Pots 200g",
+"price": 3.4,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Dairy Farmers Thick & Creamy 4 x 110g",
+"price": 4.2,
+"unit": "each",
+"was": 6.0,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Yoplait YOP Kids Yoghurt Pouch 130g",
+"price": 1.4,
+"unit": "each",
+"was": 2.3,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "YoPRO 15G High Protein Yoghurt Pot 160g",
+"price": 2.5,
+"unit": "each",
+"was": 3.2,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Pauls Plus+ Protein Milk 400ml",
+"price": 2.7,
+"unit": "each",
+"was": 4.6,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Gippsland Dairy Twist Yoghurt 700g",
+"price": 6.5,
+"unit": "each",
+"was": 8.2,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Jalna Greek Style Yoghurt 1 kg",
+"price": 7.2,
+"unit": "each",
+"was": 9.0,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Cocobella Dairy Free Coconut Yoghurt Pouch 110g",
+"price": 1.3,
+"unit": "each",
+"was": 2.2,
+"cat": "food-and-beverage/groceries/dairy"
+},
+{
+"name": "Cocobella Dairy Free Coconut Yoghurt 500g",
+"price": 3.9,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/deli-and-chilled"
+},
+{
+"name": "Hong Kong Kitchen Dumplings or Bao Buns 240-480g",
+"price": 4.25,
+"unit": "each",
+"was": 8.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Just Caught Fish Portions 450g",
+"price": 6.5,
+"unit": "each",
+"was": 13.0,
+"cat": "food-and-beverage/groceries/seafood"
+},
+{
+"name": "McCain Beer Batter Chips or Wedges 750g",
+"price": 4.0,
+"unit": "each",
+"was": 5.8,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Dr. Oetker Ristorante Pizza 310-390g",
+"price": 7.0,
+"unit": "each",
+"was": 9.5,
+"cat": "food-and-beverage/groceries/frozen-food"
+},
+{
+"name": "Herbert Adams Gourmet Pies 400-420g Pk 2",
+"price": 7.5,
+"unit": "each",
+"was": 11.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Ingham’s Chicken Varieties 1 kg",
+"price": 11.0,
+"unit": "each",
+"was": 13.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "King of Kings Bite Varieties 210-300g, Patties Bites 300g, Keith’s Mini Dagwood Dogs 270g Pk 6 or Mozzarella Sticks 235g Pk 10",
+"price": 5.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/canned-and-packet-food",
+"deal": "2 for $10.00"
+},
+{
+"name": "Sandhurst Semi-Dried Tomatoes 270g",
+"price": 3.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Sandhurst Artichoke Hearts in Brine 280g",
+"price": 4.0,
+"unit": "each",
+"was": 5.8,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Sandhurst Char Grilled or Mixed Marinated Olives 340g",
+"price": 3.8,
+"unit": "each",
+"was": 5.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Sandhurst Pitted Kalamata Olives 500g",
+"price": 3.9,
+"unit": "each",
+"was": 5.7,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "Sirena Tuna 95g",
+"price": 2.3,
+"unit": "each",
+"was": 2.95,
+"cat": "food-and-beverage/groceries/seafood"
+},
+{
+"name": "Dolmio Extra Pasta Sauce 490-500g",
+"price": 2.75,
+"unit": "each",
+"was": 4.6,
+"cat": "food-and-beverage/groceries/cooking-seasoning-and-gravy"
+},
+{
+"name": "La Molisana Pastificio Pasta 500g",
+"price": 2.8,
+"unit": "each",
+"was": 3.5,
+"cat": "food-and-beverage/groceries/canned-and-packet-food"
+},
+{
+"name": "The Spice Tailor Meal Kits 225-500g",
+"price": 3.95,
+"unit": "each",
+"was": 6.7,
+"cat": "food-and-beverage/groceries/cooking-seasoning-and-gravy"
+},
+{
+"name": "Woolworths Basmati Rice 5 kg",
+"price": 18.0,
+"unit": "each",
+"was": null,
+"cat": "food-and-beverage/groceries/canned-and-packet-food",
+"low": true
+},
+{
+"name": "Carman’s Protein Bars 150-200g Pk 5",
+"price": 5.7,
+"unit": "each",
+"was": 8.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Sanitarium UP&GO Liquid Breakfast 6 x 250ml",
+"price": 9.0,
+"unit": "each",
+"was": 13.0,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "BC Protein Bar 40g",
+"price": 2.4,
+"unit": "each",
+"was": 4.0,
+"cat": "food-and-beverage/groceries/health-foods"
+},
+{
+"name": "Vege Deli Crisps 100g",
+"price": 3.9,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Primo Salami Sticks 90g Pk 5",
+"price": 3.9,
+"unit": "each",
+"was": 6.5,
+"cat": "food-and-beverage/groceries/biscuits-and-snacks"
+},
+{
+"name": "Sam’s Pantry Nut Bars 170g Pk 5",
+"price": 3.15,
+"unit": "each",
+"was": 4.5,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Sam’s Pantry Protein Bars 190-205g Pk 5",
+"price": 3.5,
+"unit": "each",
+"was": 5.0,
+"cat": "food-and-beverage/groceries/breakfast-foods"
+},
+{
+"name": "Nice & Natural Fruit Snacks 100-136g Pk 5-8",
+"price": 4.0,
+"unit": "each",
+"was": 5.6,
+"cat": "food-and-beverage/groceries/breakfast-foods"
 }
 ]
 }
