@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T00:10+00:00",
+"updated": "2026-11-13T00:39+00:00",
 "source": "Woolworths VIC weekly catalogue (via SaleFinder)",
 "catalogues": [
 {
@@ -57,7 +57,7 @@
 "cat": "food-and-beverage/groceries/beauty"
 },
 {
-"name": "Head & Shoulders Plus Shampoo or Conditioner 345ml",
+"name": "Head & Shoulders Plus Shampoo 345ml",
 "price": 7.2,
 "unit": "each",
 "was": 16.0,
@@ -556,7 +556,7 @@
 "cat": "food-and-beverage/groceries/cooking-seasoning-and-gravy"
 },
 {
-"name": "Nongshim Noodles 460-600g Pk 4-5",
+"name": "Nongshim Premium or Core Noodles 388-600g Pk 4-5",
 "price": 5.0,
 "unit": "each",
 "was": 8.0,
@@ -654,7 +654,7 @@
 "cat": "food-and-beverage/groceries/beauty"
 },
 {
-"name": "Head & Shoulders Shampoo or Conditioner 850ml",
+"name": "Head & Shoulders Plus Shampoo or Conditioner 850ml",
 "price": 13.0,
 "unit": "each",
 "was": 26.0,
